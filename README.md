@@ -1,2 +1,1 @@
-# Bootcamp_Project
-Data Science Bootcamp Project
+# Data Science Bootcamp Project
